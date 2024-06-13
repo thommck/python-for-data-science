@@ -1,6 +1,8 @@
 # Using Jupyter Notebooks in Visual Studio Code
 
-This guide will show you how to use Jupyter notebooks in Visual Studio Code. A Jupyter notebook is an open-source web application that allows creation and sharing of documents containing code, equations, visualizations, and narrative text. Once you have a compute instance creating in Azure ML, you can head over to the `applications` column and open up VS Code atop of the compute instance - see here for a guide: https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/accelerating-machine-learning-development-with-vs-code-for-the/ba-p/3804285
+Once you have a compute instance creating in Azure ML, you can head over to the `applications` column and open up VS Code atop of the compute instance - see here for a guide: https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/accelerating-machine-learning-development-with-vs-code-for-the/ba-p/3804285
+
+This guide will show you how to use Jupyter notebooks in Visual Studio Code. A Jupyter notebook is an open-source web application that allows creation and sharing of documents containing code, equations, visualizations, and narrative text. 
 
 ## Steps
 

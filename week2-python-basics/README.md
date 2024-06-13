@@ -1,6 +1,6 @@
 # Week 2 - Python basics: data types, functions and best practices
 
-Welcome to week 2! This week we will look at the concept of data types (despite Python being a dynamically-typed language, yes!), functions, classes as well as best practices. This file will explore a handful of topics that will be introduced in this week's homework. Please take some time to look over the content of this file as it will be a huge help when working through the notebooks. There is also a wiki file that contains a brief description of all the functions used in the homework notebooks to help you further understand. Good luck!
+Welcome to week 2! This week we will look at the concept of data types (despite Python being a dynamically-typed language, yes!), functions, classes as well as best practices. This file will explore a handful of topics that will be introduced in this week's homework. Please take some time to look over the content of this file as it will be a huge help when working through the notebooks. Good luck!
 
 ## Object orientated programming
 
@@ -45,6 +45,7 @@ In Python, docstrings are a type of comment used to explain the purpose of a fun
 Lambda functions, also known as anonymous functions, are small, single-line functions that do not require a `def` statement. They are commonly used when a function is needed for a short period of time and does not need to be defined separately. Lambda functions are defined using the `lambda` keyword, followed by the function parameters and a single expression.
 
 ## Relevant links
+
 * [PEP8 style guidelines](https://peps.python.org/pep-0008/)
 * [PEP257 docstring guidlines](https://peps.python.org/pep-0257/)
 * [Automating the Boring Stuff book](https://automatetheboringstuff.com/)
