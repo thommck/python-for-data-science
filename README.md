@@ -38,8 +38,8 @@ To get started with the course, clone this repository to your Azure Machine Lear
 
 ```bash
 git clone https://github.com/ejones18/python-for-data-science.git
-git checkout summer_bootcamp
 cd python-for-data-science
+git checkout summer_bootcamp
 ```
 
 ## Contributing
