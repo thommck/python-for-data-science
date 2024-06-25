@@ -6,6 +6,10 @@ Welcome to the final weeks' content for the Python 101 course; yes, we're almost
 
 The Python requests package is a popular HTTP library for making HTTP requests in Python. It abstracts the complexities of making requests behind a simple API, allowing you to send HTTP/1.1 requests with various methods like GET, POST, and others. With it, you can add content like headers, form data, multipart files, and parameters to HTTP requests via simple Python libraries to HTTP requests.
 
+## APIs
+
+An API, Application Programming Interface, defines methods of communication between various software components. APIs enable an application to extract information from a service and use that information in their own application, or to interact with other applications without knowing how they’re implemented. APIs are used to enable the interaction between different software systems, making them interoperate seamlessly
+
 ## Python SDK v2 - Azure Machine Learning
 The Python Azure ML SDK v2 is an updated software development kit for Azure Machine Learning. It allows users to manage the entire lifecycle of machine learning tasks, from submitting training jobs to managing data, models, and environments. It introduces new features like reusable components for pipelines, standalone local jobs, and managed online/batch inferencing.
 
